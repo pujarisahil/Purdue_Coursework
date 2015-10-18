@@ -1,0 +1,20 @@
+public class Sterling {
+    public static double stirlingFunction(int n) {
+        double f = 1.0;
+        double sqrtTwoPi = 2.506628274631;
+        if(n <= 10) {
+            for(j = 1; j <= n; j++) 
+                f *= j;
+            return f;
+        }
+        return (sqrtTwoPi * Math.pow((float)n,(float)n+0.5) * Math.exp(-(double)n));
+    }
+    
+    public static void main(String[] args) {
+        int i = 100;
+        while(i <= 1000) {
+            System.out.println(i + " | " + stirlingFunction(i));
+            i += 100;
+        }
+    }
+}

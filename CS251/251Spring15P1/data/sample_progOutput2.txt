@@ -1,0 +1,15 @@
+Testcase 1: (101,(212,(434),(545,,)),(323,,(656,(767),)))
+Output for testcase 1
+L: 0
+LL: 0
+LLL: 0
+LR: 0
+RRRL: 0
+RL: 0
+RRL: 0
+RLRLR: 0
+Testcase 2: (71,(6591),(122127887))
+Output for testcase 2
+L: 0
+R: 0
+RR: 0

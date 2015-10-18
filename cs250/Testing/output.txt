@@ -1,0 +1,14 @@
+Taxes for income $8460 are 0.00
+Taxes for income $25500 are 0.00
+Taxes for income $76000 are 15475.00
+Taxes for income $123000 are 28280.00
+Taxes for income $186350 are 50073.33
+Taxes for income $186351 are 58580.83
+Number of Total incomes enters: 6
+Number of 10% bracket: 1
+Number of 15% bracket: 1
+Number of 25% bracket: 1
+Number of 28% bracket: 2
+Number of 33% bracket: 1
+Number of 35% bracket: 0
+Number of 40% bracket: 0
