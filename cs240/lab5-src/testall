@@ -1,0 +1,87 @@
+#!/bin/bash
+
+(make clean; make) || exit 1
+
+total=0
+totalmax=0
+
+rm -f total.txt *out total.txt
+
+# Test driver
+function runtest {
+  prog=$1
+  args=$2
+  testinput=$3
+  grade=$4
+  totalmax=`expr $totalmax + $grade`;
+
+  inputdescr=
+  if [ "$testinput" != "none" ]; then
+      inputdescr=" < $testinput"
+  fi
+  descr="./$prog $args $inputdescr"
+  
+  echo "========== $descr ==========="
+
+  #Run tested program
+  ./$prog $args < $testinput > $prog.out 
+
+  #Run original program
+  ./$prog.org $args< $testinput > $prog.org.out 
+
+  diff $prog.out $prog.org.out > diff.out
+  if [ $? -eq 0 ]; then
+      cat $prog.out
+      echo Test passed...;
+      printf "%-36s: %-3d of %-3d\n" "$descr " $grade $grade >> total.txt
+      total=`expr $total + $grade`;
+  else
+      echo "*****Test Failed*****";
+      echo ------ Your Output ----------
+      cat $prog.out
+      echo ------ Expected Output ------
+      cat $prog.org.out
+      echo ------ Difference -----------
+      cat diff.out
+      echo -----------------------------
+      printf "%-36s: %-3d of %-3d\n" "$descr " 0 $grade >> total.txt
+  fi
+  echo
+}
+
+# List of tests running
+runtest gauss "" none 6
+runtest gauss "" gauss0.txt 6
+runtest gauss "" gauss1.txt 6
+runtest gauss "" gauss2.txt 6
+runtest gauss "" gauss3.txt 6
+runtest gauss "" gauss4.txt 6
+runtest gauss "" gauss5.txt 7
+runtest gauss "" gauss6.txt 7
+runtest newton "" none 7
+runtest newton "pol 1" none 7
+runtest newton "poly1 1" none 7
+runtest newton "sin 0" none 7
+runtest newton "xsin 0" none 7
+runtest newton "poly2 0" none 7
+runtest newton "imaginary 4" none 8
+
+echo > total.out
+echo >> total.out
+echo   "-------------------------------------------------" >> total.out
+echo   "CS240: Lab 4. $USER   " >> total.out
+date >> total.out
+echo   "-------------------------------------------------" >> total.out
+cat total.txt >> total.out >> total.out 
+echo   "-------------------------------------------------" >> total.out 
+echo   "CS240: Lab 4. $USER" `date` " Total: " $total of $totalmax >> total.out
+echo >> total.out
+
+cat total.out
+cat total.out >> .local.total.out
+
+#Do not remove or comment these lines. They are used for monitoring progress.
+labout=/homes/cs240/LABOUT/lab4/$USER/total.txt
+cat total.out >> $labout
+#git commit -a -m "$total of $totalmax" > git.out
+

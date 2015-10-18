@@ -1,0 +1,1681 @@
+
+
+-------------------------------------------------
+CS240: Lab 4. cs240   
+Tue Sep 23 10:48:17 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 0   of 4  
+./countlines   < in2                : 0   of 4  
+./countlines   < hamlet             : 0   of 3  
+./towords   < in1                   : 0   of 4  
+./towords   < in2                   : 0   of 4  
+./towords   < hamlet                : 0   of 3  
+./rpncalc                           : 0   of 3  
+./rpncalc 2 3 +                     : 0   of 3  
+./rpncalc 2 3 - 4 +                 : 0   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 0   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 0   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 0   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 0   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 0   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 0   of 3  
+./rpncalc 2 3 pow exp log           : 0   of 3  
+./rpncalc 2 3 5                     : 0   of 3  
+./rpncalc 2 3 5 + + +               : 0   of 3  
+./convert                           : 0   of 3  
+./convert 10                        : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10 10                  : 0   of 3  
+./convert 16 10 FF                  : 0   of 3  
+./convert 16 10 100                 : 0   of 3  
+./convert 10 8 20                   : 0   of 3  
+./convert 10 2 127                  : 0   of 3  
+./convert 10 16 8191                : 0   of 3  
+./convert 10 25 100077900           : 0   of 3  
+./convert 2 16 100010001111         : 0   of 3  
+./convert 5 10 1234                 : 0   of 3  
+./convert 5 10 123456               : 0   of 3  
+-------------------------------------------------
+CS240: Lab 4. cs240 Tue Sep 23 10:48:17 EDT 2014  Total:  0 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Tue Sep 30 13:38:35 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 0   of 4  
+./towords   < in2                   : 0   of 4  
+./towords   < hamlet                : 0   of 3  
+./rpncalc                           : 0   of 3  
+./rpncalc 2 3 +                     : 0   of 3  
+./rpncalc 2 3 - 4 +                 : 0   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 0   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 0   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 0   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 0   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 0   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 0   of 3  
+./rpncalc 2 3 pow exp log           : 0   of 3  
+./rpncalc 2 3 5                     : 0   of 3  
+./rpncalc 2 3 5 + + +               : 0   of 3  
+./convert                           : 0   of 3  
+./convert 10                        : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10 10                  : 0   of 3  
+./convert 16 10 FF                  : 0   of 3  
+./convert 16 10 100                 : 0   of 3  
+./convert 10 8 20                   : 0   of 3  
+./convert 10 2 127                  : 0   of 3  
+./convert 10 16 8191                : 0   of 3  
+./convert 10 25 100077900           : 0   of 3  
+./convert 2 16 100010001111         : 0   of 3  
+./convert 5 10 1234                 : 0   of 3  
+./convert 5 10 123456               : 0   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Tue Sep 30 13:38:35 EDT 2014  Total:  11 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Tue Sep 30 14:22:10 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 0   of 4  
+./towords   < in2                   : 0   of 4  
+./towords   < hamlet                : 0   of 3  
+./rpncalc                           : 0   of 3  
+./rpncalc 2 3 +                     : 0   of 3  
+./rpncalc 2 3 - 4 +                 : 0   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 0   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 0   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 0   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 0   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 0   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 0   of 3  
+./rpncalc 2 3 pow exp log           : 0   of 3  
+./rpncalc 2 3 5                     : 0   of 3  
+./rpncalc 2 3 5 + + +               : 0   of 3  
+./convert                           : 0   of 3  
+./convert 10                        : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10 10                  : 0   of 3  
+./convert 16 10 FF                  : 0   of 3  
+./convert 16 10 100                 : 0   of 3  
+./convert 10 8 20                   : 0   of 3  
+./convert 10 2 127                  : 0   of 3  
+./convert 10 16 8191                : 0   of 3  
+./convert 10 25 100077900           : 0   of 3  
+./convert 2 16 100010001111         : 0   of 3  
+./convert 5 10 1234                 : 0   of 3  
+./convert 5 10 123456               : 0   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Tue Sep 30 14:22:10 EDT 2014  Total:  11 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Tue Sep 30 14:25:01 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 0   of 4  
+./towords   < in2                   : 0   of 4  
+./towords   < hamlet                : 0   of 3  
+./rpncalc                           : 0   of 3  
+./rpncalc 2 3 +                     : 0   of 3  
+./rpncalc 2 3 - 4 +                 : 0   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 0   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 0   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 0   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 0   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 0   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 0   of 3  
+./rpncalc 2 3 pow exp log           : 0   of 3  
+./rpncalc 2 3 5                     : 0   of 3  
+./rpncalc 2 3 5 + + +               : 0   of 3  
+./convert                           : 0   of 3  
+./convert 10                        : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10 10                  : 0   of 3  
+./convert 16 10 FF                  : 0   of 3  
+./convert 16 10 100                 : 0   of 3  
+./convert 10 8 20                   : 0   of 3  
+./convert 10 2 127                  : 0   of 3  
+./convert 10 16 8191                : 0   of 3  
+./convert 10 25 100077900           : 0   of 3  
+./convert 2 16 100010001111         : 0   of 3  
+./convert 5 10 1234                 : 0   of 3  
+./convert 5 10 123456               : 0   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Tue Sep 30 14:25:01 EDT 2014  Total:  11 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Tue Sep 30 14:28:23 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 0   of 4  
+./towords   < in2                   : 0   of 4  
+./towords   < hamlet                : 0   of 3  
+./rpncalc                           : 0   of 3  
+./rpncalc 2 3 +                     : 0   of 3  
+./rpncalc 2 3 - 4 +                 : 0   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 0   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 0   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 0   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 0   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 0   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 0   of 3  
+./rpncalc 2 3 pow exp log           : 0   of 3  
+./rpncalc 2 3 5                     : 0   of 3  
+./rpncalc 2 3 5 + + +               : 0   of 3  
+./convert                           : 0   of 3  
+./convert 10                        : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10 10                  : 0   of 3  
+./convert 16 10 FF                  : 0   of 3  
+./convert 16 10 100                 : 0   of 3  
+./convert 10 8 20                   : 0   of 3  
+./convert 10 2 127                  : 0   of 3  
+./convert 10 16 8191                : 0   of 3  
+./convert 10 25 100077900           : 0   of 3  
+./convert 2 16 100010001111         : 0   of 3  
+./convert 5 10 1234                 : 0   of 3  
+./convert 5 10 123456               : 0   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Tue Sep 30 14:28:23 EDT 2014  Total:  11 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Tue Sep 30 14:38:22 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 0   of 3  
+./rpncalc 2 3 +                     : 0   of 3  
+./rpncalc 2 3 - 4 +                 : 0   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 0   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 0   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 0   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 0   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 0   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 0   of 3  
+./rpncalc 2 3 pow exp log           : 0   of 3  
+./rpncalc 2 3 5                     : 0   of 3  
+./rpncalc 2 3 5 + + +               : 0   of 3  
+./convert                           : 0   of 3  
+./convert 10                        : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10 10                  : 0   of 3  
+./convert 16 10 FF                  : 0   of 3  
+./convert 16 10 100                 : 0   of 3  
+./convert 10 8 20                   : 0   of 3  
+./convert 10 2 127                  : 0   of 3  
+./convert 10 16 8191                : 0   of 3  
+./convert 10 25 100077900           : 0   of 3  
+./convert 2 16 100010001111         : 0   of 3  
+./convert 5 10 1234                 : 0   of 3  
+./convert 5 10 123456               : 0   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Tue Sep 30 14:38:22 EDT 2014  Total:  22 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Tue Sep 30 15:22:59 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 0   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 0   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 0   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 0   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 0   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 0   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 0   of 3  
+./rpncalc 2 3 pow exp log           : 0   of 3  
+./rpncalc 2 3 5                     : 0   of 3  
+./rpncalc 2 3 5 + + +               : 0   of 3  
+./convert                           : 0   of 3  
+./convert 10                        : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10 10                  : 0   of 3  
+./convert 16 10 FF                  : 0   of 3  
+./convert 16 10 100                 : 0   of 3  
+./convert 10 8 20                   : 0   of 3  
+./convert 10 2 127                  : 0   of 3  
+./convert 10 16 8191                : 0   of 3  
+./convert 10 25 100077900           : 0   of 3  
+./convert 2 16 100010001111         : 0   of 3  
+./convert 5 10 1234                 : 0   of 3  
+./convert 5 10 123456               : 0   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Tue Sep 30 15:22:59 EDT 2014  Total:  28 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Tue Sep 30 15:23:26 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 0   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 0   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 0   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 0   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 0   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 0   of 3  
+./rpncalc 2 3 pow exp log           : 0   of 3  
+./rpncalc 2 3 5                     : 0   of 3  
+./rpncalc 2 3 5 + + +               : 0   of 3  
+./convert                           : 0   of 3  
+./convert 10                        : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10 10                  : 0   of 3  
+./convert 16 10 FF                  : 0   of 3  
+./convert 16 10 100                 : 0   of 3  
+./convert 10 8 20                   : 0   of 3  
+./convert 10 2 127                  : 0   of 3  
+./convert 10 16 8191                : 0   of 3  
+./convert 10 25 100077900           : 0   of 3  
+./convert 2 16 100010001111         : 0   of 3  
+./convert 5 10 1234                 : 0   of 3  
+./convert 5 10 123456               : 0   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Tue Sep 30 15:23:26 EDT 2014  Total:  31 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Tue Sep 30 15:32:47 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 0   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 0   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 0   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 0   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 0   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 0   of 3  
+./rpncalc 2 3 pow exp log           : 0   of 3  
+./rpncalc 2 3 5                     : 0   of 3  
+./rpncalc 2 3 5 + + +               : 0   of 3  
+./convert                           : 0   of 3  
+./convert 10                        : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10 10                  : 0   of 3  
+./convert 16 10 FF                  : 0   of 3  
+./convert 16 10 100                 : 0   of 3  
+./convert 10 8 20                   : 0   of 3  
+./convert 10 2 127                  : 0   of 3  
+./convert 10 16 8191                : 0   of 3  
+./convert 10 25 100077900           : 0   of 3  
+./convert 2 16 100010001111         : 0   of 3  
+./convert 5 10 1234                 : 0   of 3  
+./convert 5 10 123456               : 0   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Tue Sep 30 15:32:47 EDT 2014  Total:  31 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 19:01:55 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 0   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 0   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 0   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 0   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 0   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 0   of 3  
+./rpncalc 2 3 pow exp log           : 0   of 3  
+./rpncalc 2 3 5                     : 0   of 3  
+./rpncalc 2 3 5 + + +               : 0   of 3  
+./convert                           : 0   of 3  
+./convert 10                        : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10 10                  : 0   of 3  
+./convert 16 10 FF                  : 0   of 3  
+./convert 16 10 100                 : 0   of 3  
+./convert 10 8 20                   : 0   of 3  
+./convert 10 2 127                  : 0   of 3  
+./convert 10 16 8191                : 0   of 3  
+./convert 10 25 100077900           : 0   of 3  
+./convert 2 16 100010001111         : 0   of 3  
+./convert 5 10 1234                 : 0   of 3  
+./convert 5 10 123456               : 0   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 19:01:55 EDT 2014  Total:  31 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 19:04:40 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 0   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 0   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 0   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 0   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 0   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 0   of 3  
+./rpncalc 2 3 pow exp log           : 0   of 3  
+./rpncalc 2 3 5                     : 0   of 3  
+./rpncalc 2 3 5 + + +               : 0   of 3  
+./convert                           : 0   of 3  
+./convert 10                        : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10 10                  : 0   of 3  
+./convert 16 10 FF                  : 0   of 3  
+./convert 16 10 100                 : 0   of 3  
+./convert 10 8 20                   : 0   of 3  
+./convert 10 2 127                  : 0   of 3  
+./convert 10 16 8191                : 0   of 3  
+./convert 10 25 100077900           : 0   of 3  
+./convert 2 16 100010001111         : 0   of 3  
+./convert 5 10 1234                 : 0   of 3  
+./convert 5 10 123456               : 0   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 19:04:40 EDT 2014  Total:  31 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 19:05:25 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 3   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 0   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 0   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 0   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 0   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 0   of 3  
+./rpncalc 2 3 pow exp log           : 0   of 3  
+./rpncalc 2 3 5                     : 0   of 3  
+./rpncalc 2 3 5 + + +               : 0   of 3  
+./convert                           : 0   of 3  
+./convert 10                        : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10 10                  : 0   of 3  
+./convert 16 10 FF                  : 0   of 3  
+./convert 16 10 100                 : 0   of 3  
+./convert 10 8 20                   : 0   of 3  
+./convert 10 2 127                  : 0   of 3  
+./convert 10 16 8191                : 0   of 3  
+./convert 10 25 100077900           : 0   of 3  
+./convert 2 16 100010001111         : 0   of 3  
+./convert 5 10 1234                 : 0   of 3  
+./convert 5 10 123456               : 0   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 19:05:25 EDT 2014  Total:  34 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 19:25:28 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 3   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 0   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 0   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 0   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 0   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 0   of 3  
+./rpncalc 2 3 pow exp log           : 0   of 3  
+./rpncalc 2 3 5                     : 0   of 3  
+./rpncalc 2 3 5 + + +               : 0   of 3  
+./convert                           : 0   of 3  
+./convert 10                        : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10 10                  : 0   of 3  
+./convert 16 10 FF                  : 0   of 3  
+./convert 16 10 100                 : 0   of 3  
+./convert 10 8 20                   : 0   of 3  
+./convert 10 2 127                  : 0   of 3  
+./convert 10 16 8191                : 0   of 3  
+./convert 10 25 100077900           : 0   of 3  
+./convert 2 16 100010001111         : 0   of 3  
+./convert 5 10 1234                 : 0   of 3  
+./convert 5 10 123456               : 0   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 19:25:28 EDT 2014  Total:  34 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 20:13:58 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 3   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 3   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 3   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 3   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 3   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 3   of 3  
+./rpncalc 2 3 pow exp log           : 3   of 3  
+./rpncalc 2 3 5                     : 3   of 3  
+./rpncalc 2 3 5 + + +               : 3   of 3  
+./convert                           : 0   of 3  
+./convert 10                        : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10 10                  : 0   of 3  
+./convert 16 10 FF                  : 0   of 3  
+./convert 16 10 100                 : 0   of 3  
+./convert 10 8 20                   : 0   of 3  
+./convert 10 2 127                  : 0   of 3  
+./convert 10 16 8191                : 0   of 3  
+./convert 10 25 100077900           : 0   of 3  
+./convert 2 16 100010001111         : 0   of 3  
+./convert 5 10 1234                 : 0   of 3  
+./convert 5 10 123456               : 0   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 20:13:58 EDT 2014  Total:  58 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 20:15:13 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 3   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 3   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 3   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 3   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 3   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 3   of 3  
+./rpncalc 2 3 pow exp log           : 3   of 3  
+./rpncalc 2 3 5                     : 3   of 3  
+./rpncalc 2 3 5 + + +               : 3   of 3  
+./convert                           : 0   of 3  
+./convert 10                        : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10 10                  : 3   of 3  
+./convert 16 10 FF                  : 3   of 3  
+./convert 16 10 100                 : 3   of 3  
+./convert 10 8 20                   : 3   of 3  
+./convert 10 2 127                  : 3   of 3  
+./convert 10 16 8191                : 3   of 3  
+./convert 10 25 100077900           : 3   of 3  
+./convert 2 16 100010001111         : 3   of 3  
+./convert 5 10 1234                 : 3   of 3  
+./convert 5 10 123456               : 3   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 20:15:13 EDT 2014  Total:  88 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 20:20:05 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 3   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 3   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 3   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 3   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 3   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 3   of 3  
+./rpncalc 2 3 pow exp log           : 3   of 3  
+./rpncalc 2 3 5                     : 3   of 3  
+./rpncalc 2 3 5 + + +               : 3   of 3  
+./convert                           : 0   of 3  
+./convert 10                        : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10 10                  : 3   of 3  
+./convert 16 10 FF                  : 3   of 3  
+./convert 16 10 100                 : 3   of 3  
+./convert 10 8 20                   : 3   of 3  
+./convert 10 2 127                  : 3   of 3  
+./convert 10 16 8191                : 3   of 3  
+./convert 10 25 100077900           : 3   of 3  
+./convert 2 16 100010001111         : 3   of 3  
+./convert 5 10 1234                 : 3   of 3  
+./convert 5 10 123456               : 3   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 20:20:05 EDT 2014  Total:  88 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 20:20:13 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 3   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 0   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 0   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 0   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 0   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 0   of 3  
+./rpncalc 2 3 pow exp log           : 0   of 3  
+./rpncalc 2 3 5                     : 0   of 3  
+./rpncalc 2 3 5 + + +               : 0   of 3  
+./convert                           : 0   of 3  
+./convert 10                        : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10 10                  : 3   of 3  
+./convert 16 10 FF                  : 3   of 3  
+./convert 16 10 100                 : 3   of 3  
+./convert 10 8 20                   : 3   of 3  
+./convert 10 2 127                  : 3   of 3  
+./convert 10 16 8191                : 3   of 3  
+./convert 10 25 100077900           : 3   of 3  
+./convert 2 16 100010001111         : 3   of 3  
+./convert 5 10 1234                 : 3   of 3  
+./convert 5 10 123456               : 3   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 20:20:13 EDT 2014  Total:  64 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 20:30:11 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 3   of 3  
+./rpncalc 2 3 +                     : 0   of 3  
+./rpncalc 2 3 - 4 +                 : 0   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 0   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 0   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 0   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 0   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 0   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 0   of 3  
+./rpncalc 2 3 pow exp log           : 0   of 3  
+./rpncalc 2 3 5                     : 0   of 3  
+./rpncalc 2 3 5 + + +               : 0   of 3  
+./convert                           : 0   of 3  
+./convert 10                        : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10 10                  : 3   of 3  
+./convert 16 10 FF                  : 3   of 3  
+./convert 16 10 100                 : 3   of 3  
+./convert 10 8 20                   : 3   of 3  
+./convert 10 2 127                  : 3   of 3  
+./convert 10 16 8191                : 3   of 3  
+./convert 10 25 100077900           : 3   of 3  
+./convert 2 16 100010001111         : 3   of 3  
+./convert 5 10 1234                 : 3   of 3  
+./convert 5 10 123456               : 3   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 20:30:11 EDT 2014  Total:  55 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 20:30:46 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 0   of 3  
+./rpncalc 2 3 +                     : 0   of 3  
+./rpncalc 2 3 - 4 +                 : 0   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 0   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 0   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 0   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 0   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 0   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 0   of 3  
+./rpncalc 2 3 pow exp log           : 0   of 3  
+./rpncalc 2 3 5                     : 0   of 3  
+./rpncalc 2 3 5 + + +               : 0   of 3  
+./convert                           : 0   of 3  
+./convert 10                        : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10 10                  : 3   of 3  
+./convert 16 10 FF                  : 3   of 3  
+./convert 16 10 100                 : 3   of 3  
+./convert 10 8 20                   : 3   of 3  
+./convert 10 2 127                  : 3   of 3  
+./convert 10 16 8191                : 3   of 3  
+./convert 10 25 100077900           : 3   of 3  
+./convert 2 16 100010001111         : 3   of 3  
+./convert 5 10 1234                 : 3   of 3  
+./convert 5 10 123456               : 3   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 20:30:46 EDT 2014  Total:  52 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 20:31:40 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 3   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 3   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 3   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 3   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 3   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 3   of 3  
+./rpncalc 2 3 pow exp log           : 3   of 3  
+./rpncalc 2 3 5                     : 3   of 3  
+./rpncalc 2 3 5 + + +               : 3   of 3  
+./convert                           : 0   of 3  
+./convert 10                        : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10 10                  : 3   of 3  
+./convert 16 10 FF                  : 3   of 3  
+./convert 16 10 100                 : 3   of 3  
+./convert 10 8 20                   : 3   of 3  
+./convert 10 2 127                  : 3   of 3  
+./convert 10 16 8191                : 3   of 3  
+./convert 10 25 100077900           : 3   of 3  
+./convert 2 16 100010001111         : 3   of 3  
+./convert 5 10 1234                 : 3   of 3  
+./convert 5 10 123456               : 3   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 20:31:40 EDT 2014  Total:  88 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 20:34:19 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 3   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 3   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 3   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 3   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 3   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 3   of 3  
+./rpncalc 2 3 pow exp log           : 3   of 3  
+./rpncalc 2 3 5                     : 3   of 3  
+./rpncalc 2 3 5 + + +               : 3   of 3  
+./convert                           : 0   of 3  
+./convert 10                        : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10 10                  : 3   of 3  
+./convert 16 10 FF                  : 3   of 3  
+./convert 16 10 100                 : 3   of 3  
+./convert 10 8 20                   : 3   of 3  
+./convert 10 2 127                  : 3   of 3  
+./convert 10 16 8191                : 3   of 3  
+./convert 10 25 100077900           : 3   of 3  
+./convert 2 16 100010001111         : 3   of 3  
+./convert 5 10 1234                 : 3   of 3  
+./convert 5 10 123456               : 3   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 20:34:19 EDT 2014  Total:  88 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 20:35:14 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 3   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 3   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 3   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 3   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 3   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 3   of 3  
+./rpncalc 2 3 pow exp log           : 3   of 3  
+./rpncalc 2 3 5                     : 3   of 3  
+./rpncalc 2 3 5 + + +               : 3   of 3  
+./convert                           : 3   of 3  
+./convert 10                        : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10 10                  : 3   of 3  
+./convert 16 10 FF                  : 3   of 3  
+./convert 16 10 100                 : 3   of 3  
+./convert 10 8 20                   : 3   of 3  
+./convert 10 2 127                  : 3   of 3  
+./convert 10 16 8191                : 3   of 3  
+./convert 10 25 100077900           : 3   of 3  
+./convert 2 16 100010001111         : 3   of 3  
+./convert 5 10 1234                 : 3   of 3  
+./convert 5 10 123456               : 3   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 20:35:14 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 20:39:14 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 3   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 3   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 3   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 3   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 3   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 3   of 3  
+./rpncalc 2 3 pow exp log           : 3   of 3  
+./rpncalc 2 3 5                     : 3   of 3  
+./rpncalc 2 3 5 + + +               : 3   of 3  
+./convert                           : 3   of 3  
+./convert 10                        : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10 10                  : 3   of 3  
+./convert 16 10 FF                  : 3   of 3  
+./convert 16 10 100                 : 3   of 3  
+./convert 10 8 20                   : 3   of 3  
+./convert 10 2 127                  : 3   of 3  
+./convert 10 16 8191                : 3   of 3  
+./convert 10 25 100077900           : 3   of 3  
+./convert 2 16 100010001111         : 3   of 3  
+./convert 5 10 1234                 : 3   of 3  
+./convert 5 10 123456               : 3   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 20:39:14 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 20:39:29 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 3   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 3   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 3   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 3   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 3   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 3   of 3  
+./rpncalc 2 3 pow exp log           : 3   of 3  
+./rpncalc 2 3 5                     : 3   of 3  
+./rpncalc 2 3 5 + + +               : 3   of 3  
+./convert                           : 3   of 3  
+./convert 10                        : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10 10                  : 3   of 3  
+./convert 16 10 FF                  : 3   of 3  
+./convert 16 10 100                 : 3   of 3  
+./convert 10 8 20                   : 3   of 3  
+./convert 10 2 127                  : 3   of 3  
+./convert 10 16 8191                : 3   of 3  
+./convert 10 25 100077900           : 3   of 3  
+./convert 2 16 100010001111         : 3   of 3  
+./convert 5 10 1234                 : 3   of 3  
+./convert 5 10 123456               : 3   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 20:39:29 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 20:42:06 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 3   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 3   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 3   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 3   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 3   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 3   of 3  
+./rpncalc 2 3 pow exp log           : 3   of 3  
+./rpncalc 2 3 5                     : 3   of 3  
+./rpncalc 2 3 5 + + +               : 3   of 3  
+./convert                           : 3   of 3  
+./convert 10                        : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10 10                  : 0   of 3  
+./convert 16 10 FF                  : 0   of 3  
+./convert 16 10 100                 : 0   of 3  
+./convert 10 8 20                   : 0   of 3  
+./convert 10 2 127                  : 0   of 3  
+./convert 10 16 8191                : 0   of 3  
+./convert 10 25 100077900           : 0   of 3  
+./convert 2 16 100010001111         : 0   of 3  
+./convert 5 10 1234                 : 0   of 3  
+./convert 5 10 123456               : 3   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 20:42:06 EDT 2014  Total:  73 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 20:43:17 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 3   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 3   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 3   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 3   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 3   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 3   of 3  
+./rpncalc 2 3 pow exp log           : 3   of 3  
+./rpncalc 2 3 5                     : 3   of 3  
+./rpncalc 2 3 5 + + +               : 3   of 3  
+./convert                           : 3   of 3  
+./convert 10                        : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10 10                  : 3   of 3  
+./convert 16 10 FF                  : 3   of 3  
+./convert 16 10 100                 : 3   of 3  
+./convert 10 8 20                   : 3   of 3  
+./convert 10 2 127                  : 3   of 3  
+./convert 10 16 8191                : 3   of 3  
+./convert 10 25 100077900           : 3   of 3  
+./convert 2 16 100010001111         : 3   of 3  
+./convert 5 10 1234                 : 3   of 3  
+./convert 5 10 123456               : 3   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 20:43:17 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 20:46:44 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 3   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 3   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 3   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 3   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 3   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 3   of 3  
+./rpncalc 2 3 pow exp log           : 3   of 3  
+./rpncalc 2 3 5                     : 3   of 3  
+./rpncalc 2 3 5 + + +               : 3   of 3  
+./convert                           : 3   of 3  
+./convert 10                        : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10 10                  : 3   of 3  
+./convert 16 10 FF                  : 3   of 3  
+./convert 16 10 100                 : 3   of 3  
+./convert 10 8 20                   : 3   of 3  
+./convert 10 2 127                  : 3   of 3  
+./convert 10 16 8191                : 3   of 3  
+./convert 10 25 100077900           : 3   of 3  
+./convert 2 16 100010001111         : 3   of 3  
+./convert 5 10 1234                 : 3   of 3  
+./convert 5 10 123456               : 3   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 20:46:44 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 20:47:41 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 3   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 3   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 3   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 3   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 3   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 3   of 3  
+./rpncalc 2 3 pow exp log           : 3   of 3  
+./rpncalc 2 3 5                     : 3   of 3  
+./rpncalc 2 3 5 + + +               : 3   of 3  
+./convert                           : 3   of 3  
+./convert 10                        : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10 10                  : 3   of 3  
+./convert 16 10 FF                  : 3   of 3  
+./convert 16 10 100                 : 3   of 3  
+./convert 10 8 20                   : 3   of 3  
+./convert 10 2 127                  : 3   of 3  
+./convert 10 16 8191                : 3   of 3  
+./convert 10 25 100077900           : 3   of 3  
+./convert 2 16 100010001111         : 3   of 3  
+./convert 5 10 1234                 : 3   of 3  
+./convert 5 10 123456               : 3   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 20:47:41 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 20:47:57 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 3   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 3   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 3   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 3   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 3   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 3   of 3  
+./rpncalc 2 3 pow exp log           : 3   of 3  
+./rpncalc 2 3 5                     : 3   of 3  
+./rpncalc 2 3 5 + + +               : 3   of 3  
+./convert                           : 3   of 3  
+./convert 10                        : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10 10                  : 3   of 3  
+./convert 16 10 FF                  : 3   of 3  
+./convert 16 10 100                 : 3   of 3  
+./convert 10 8 20                   : 3   of 3  
+./convert 10 2 127                  : 3   of 3  
+./convert 10 16 8191                : 3   of 3  
+./convert 10 25 100077900           : 3   of 3  
+./convert 2 16 100010001111         : 3   of 3  
+./convert 5 10 1234                 : 3   of 3  
+./convert 5 10 123456               : 3   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 20:47:57 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 20:48:27 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 3   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 3   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 3   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 3   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 3   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 3   of 3  
+./rpncalc 2 3 pow exp log           : 3   of 3  
+./rpncalc 2 3 5                     : 3   of 3  
+./rpncalc 2 3 5 + + +               : 3   of 3  
+./convert                           : 3   of 3  
+./convert 10                        : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10 10                  : 3   of 3  
+./convert 16 10 FF                  : 3   of 3  
+./convert 16 10 100                 : 3   of 3  
+./convert 10 8 20                   : 3   of 3  
+./convert 10 2 127                  : 3   of 3  
+./convert 10 16 8191                : 3   of 3  
+./convert 10 25 100077900           : 3   of 3  
+./convert 2 16 100010001111         : 3   of 3  
+./convert 5 10 1234                 : 3   of 3  
+./convert 5 10 123456               : 3   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 20:48:27 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 20:49:47 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 3   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 3   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 3   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 3   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 3   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 3   of 3  
+./rpncalc 2 3 pow exp log           : 3   of 3  
+./rpncalc 2 3 5                     : 3   of 3  
+./rpncalc 2 3 5 + + +               : 3   of 3  
+./convert                           : 3   of 3  
+./convert 10                        : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10 10                  : 3   of 3  
+./convert 16 10 FF                  : 3   of 3  
+./convert 16 10 100                 : 3   of 3  
+./convert 10 8 20                   : 3   of 3  
+./convert 10 2 127                  : 3   of 3  
+./convert 10 16 8191                : 3   of 3  
+./convert 10 25 100077900           : 3   of 3  
+./convert 2 16 100010001111         : 3   of 3  
+./convert 5 10 1234                 : 3   of 3  
+./convert 5 10 123456               : 3   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 20:49:47 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 20:50:41 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 3   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 3   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 3   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 3   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 3   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 3   of 3  
+./rpncalc 2 3 pow exp log           : 3   of 3  
+./rpncalc 2 3 5                     : 3   of 3  
+./rpncalc 2 3 5 + + +               : 3   of 3  
+./convert                           : 3   of 3  
+./convert 10                        : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10 10                  : 3   of 3  
+./convert 16 10 FF                  : 3   of 3  
+./convert 16 10 100                 : 3   of 3  
+./convert 10 8 20                   : 3   of 3  
+./convert 10 2 127                  : 3   of 3  
+./convert 10 16 8191                : 3   of 3  
+./convert 10 25 100077900           : 3   of 3  
+./convert 2 16 100010001111         : 3   of 3  
+./convert 5 10 1234                 : 3   of 3  
+./convert 5 10 123456               : 3   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 20:50:41 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 20:51:18 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 3   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 3   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 3   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 3   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 3   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 3   of 3  
+./rpncalc 2 3 pow exp log           : 3   of 3  
+./rpncalc 2 3 5                     : 3   of 3  
+./rpncalc 2 3 5 + + +               : 3   of 3  
+./convert                           : 3   of 3  
+./convert 10                        : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10 10                  : 3   of 3  
+./convert 16 10 FF                  : 3   of 3  
+./convert 16 10 100                 : 3   of 3  
+./convert 10 8 20                   : 3   of 3  
+./convert 10 2 127                  : 3   of 3  
+./convert 10 16 8191                : 3   of 3  
+./convert 10 25 100077900           : 3   of 3  
+./convert 2 16 100010001111         : 3   of 3  
+./convert 5 10 1234                 : 3   of 3  
+./convert 5 10 123456               : 3   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 20:51:18 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 21:06:47 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 3   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 3   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 3   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 3   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 3   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 3   of 3  
+./rpncalc 2 3 pow exp log           : 3   of 3  
+./rpncalc 2 3 5                     : 3   of 3  
+./rpncalc 2 3 5 + + +               : 3   of 3  
+./convert                           : 3   of 3  
+./convert 10                        : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10 10                  : 3   of 3  
+./convert 16 10 FF                  : 3   of 3  
+./convert 16 10 100                 : 3   of 3  
+./convert 10 8 20                   : 3   of 3  
+./convert 10 2 127                  : 3   of 3  
+./convert 10 16 8191                : 3   of 3  
+./convert 10 25 100077900           : 3   of 3  
+./convert 2 16 100010001111         : 3   of 3  
+./convert 5 10 1234                 : 3   of 3  
+./convert 5 10 123456               : 3   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 21:06:47 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 21:19:12 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 3   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 3   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 3   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 3   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 3   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 3   of 3  
+./rpncalc 2 3 pow exp log           : 3   of 3  
+./rpncalc 2 3 5                     : 3   of 3  
+./rpncalc 2 3 5 + + +               : 3   of 3  
+./convert                           : 3   of 3  
+./convert 10                        : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10 10                  : 3   of 3  
+./convert 16 10 FF                  : 3   of 3  
+./convert 16 10 100                 : 3   of 3  
+./convert 10 8 20                   : 3   of 3  
+./convert 10 2 127                  : 3   of 3  
+./convert 10 16 8191                : 3   of 3  
+./convert 10 25 100077900           : 3   of 3  
+./convert 2 16 100010001111         : 3   of 3  
+./convert 5 10 1234                 : 3   of 3  
+./convert 5 10 123456               : 3   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 21:19:12 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 21:19:52 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 3   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 3   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 3   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 3   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 3   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 3   of 3  
+./rpncalc 2 3 pow exp log           : 3   of 3  
+./rpncalc 2 3 5                     : 3   of 3  
+./rpncalc 2 3 5 + + +               : 3   of 3  
+./convert                           : 3   of 3  
+./convert 10                        : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10 10                  : 3   of 3  
+./convert 16 10 FF                  : 3   of 3  
+./convert 16 10 100                 : 3   of 3  
+./convert 10 8 20                   : 3   of 3  
+./convert 10 2 127                  : 3   of 3  
+./convert 10 16 8191                : 3   of 3  
+./convert 10 25 100077900           : 3   of 3  
+./convert 2 16 100010001111         : 3   of 3  
+./convert 5 10 1234                 : 3   of 3  
+./convert 5 10 123456               : 3   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 21:19:52 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 21:20:27 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 3   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 3   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 3   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 3   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 3   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 3   of 3  
+./rpncalc 2 3 pow exp log           : 3   of 3  
+./rpncalc 2 3 5                     : 3   of 3  
+./rpncalc 2 3 5 + + +               : 3   of 3  
+./convert                           : 3   of 3  
+./convert 10                        : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10 10                  : 3   of 3  
+./convert 16 10 FF                  : 3   of 3  
+./convert 16 10 100                 : 3   of 3  
+./convert 10 8 20                   : 3   of 3  
+./convert 10 2 127                  : 3   of 3  
+./convert 10 16 8191                : 3   of 3  
+./convert 10 25 100077900           : 3   of 3  
+./convert 2 16 100010001111         : 3   of 3  
+./convert 5 10 1234                 : 3   of 3  
+./convert 5 10 123456               : 3   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 21:20:27 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 22:54:36 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 3   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 3   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 3   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 3   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 3   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 3   of 3  
+./rpncalc 2 3 pow exp log           : 3   of 3  
+./rpncalc 2 3 5                     : 3   of 3  
+./rpncalc 2 3 5 + + +               : 3   of 3  
+./convert                           : 3   of 3  
+./convert 10                        : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10 10                  : 3   of 3  
+./convert 16 10 FF                  : 3   of 3  
+./convert 16 10 100                 : 3   of 3  
+./convert 10 8 20                   : 3   of 3  
+./convert 10 2 127                  : 3   of 3  
+./convert 10 16 8191                : 3   of 3  
+./convert 10 25 100077900           : 3   of 3  
+./convert 2 16 100010001111         : 3   of 3  
+./convert 5 10 1234                 : 3   of 3  
+./convert 5 10 123456               : 3   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 22:54:36 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 22:59:27 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 3   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 3   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 3   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 3   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 3   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 3   of 3  
+./rpncalc 2 3 pow exp log           : 3   of 3  
+./rpncalc 2 3 5                     : 3   of 3  
+./rpncalc 2 3 5 + + +               : 3   of 3  
+./convert                           : 3   of 3  
+./convert 10                        : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10 10                  : 3   of 3  
+./convert 16 10 FF                  : 3   of 3  
+./convert 16 10 100                 : 3   of 3  
+./convert 10 8 20                   : 3   of 3  
+./convert 10 2 127                  : 3   of 3  
+./convert 10 16 8191                : 3   of 3  
+./convert 10 25 100077900           : 3   of 3  
+./convert 2 16 100010001111         : 3   of 3  
+./convert 5 10 1234                 : 3   of 3  
+./convert 5 10 123456               : 3   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 22:59:27 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 23:00:56 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 3   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 3   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 3   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 3   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 3   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 3   of 3  
+./rpncalc 2 3 pow exp log           : 3   of 3  
+./rpncalc 2 3 5                     : 3   of 3  
+./rpncalc 2 3 5 + + +               : 3   of 3  
+./convert                           : 3   of 3  
+./convert 10                        : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10 10                  : 3   of 3  
+./convert 16 10 FF                  : 3   of 3  
+./convert 16 10 100                 : 3   of 3  
+./convert 10 8 20                   : 3   of 3  
+./convert 10 2 127                  : 3   of 3  
+./convert 10 16 8191                : 3   of 3  
+./convert 10 25 100077900           : 3   of 3  
+./convert 2 16 100010001111         : 3   of 3  
+./convert 5 10 1234                 : 3   of 3  
+./convert 5 10 123456               : 3   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 23:00:56 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct  6 23:06:05 EDT 2014
+-------------------------------------------------
+./countlines   < in1                : 4   of 4  
+./countlines   < in2                : 4   of 4  
+./countlines   < hamlet             : 3   of 3  
+./towords   < in1                   : 4   of 4  
+./towords   < in2                   : 4   of 4  
+./towords   < hamlet                : 3   of 3  
+./rpncalc                           : 3   of 3  
+./rpncalc 2 3 +                     : 3   of 3  
+./rpncalc 2 3 - 4 +                 : 3   of 3  
+./rpncalc 2 3 x 5 / 4 -             : 3   of 3  
+./rpncalc 2.0 3.2 / 5.3 x 4 +       : 3   of 3  
+./rpncalc 3.0 7 -4 - 5 x +          : 3   of 3  
+./rpncalc -2.9 3 x 5.2 /            : 3   of 3  
+./rpncalc 3.14 2 / cos 2 x          : 3   of 3  
+./rpncalc 3.14 2 / sin 2 + 3.14 2 / cos 2 x -  : 3   of 3  
+./rpncalc 2 3 pow exp log           : 3   of 3  
+./rpncalc 2 3 5                     : 3   of 3  
+./rpncalc 2 3 5 + + +               : 3   of 3  
+./convert                           : 3   of 3  
+./convert 10                        : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10                     : 3   of 3  
+./convert 10 10 10                  : 3   of 3  
+./convert 16 10 FF                  : 3   of 3  
+./convert 16 10 100                 : 3   of 3  
+./convert 10 8 20                   : 3   of 3  
+./convert 10 2 127                  : 3   of 3  
+./convert 10 16 8191                : 3   of 3  
+./convert 10 25 100077900           : 3   of 3  
+./convert 2 16 100010001111         : 3   of 3  
+./convert 5 10 1234                 : 3   of 3  
+./convert 5 10 123456               : 3   of 3  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 6 23:06:05 EDT 2014  Total:  100 of 100
+

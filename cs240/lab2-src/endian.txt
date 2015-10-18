@@ -1,0 +1,11 @@
+
+Host Name 
+Architecture (x86, SPARC)
+Endianes 
+lore.cs.purdue.edu
+SPARC
+big
+data.cs.purdue.edu
+x86_64
+low
+

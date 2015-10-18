@@ -1,0 +1,15 @@
+Function: y = x^2+1 = 0
+At iteration 0, x=4.000000, y=17.000000, y'=76.000000
+At iteration 1, x=3.776316, y=15.260561, y'=69.439578
+At iteration 2, x=3.556548, y=13.649036, y'=63.286398
+At iteration 3, x=3.340877, y=12.161462, y'=57.529649
+At iteration 4, x=3.129483, y=10.793662, y'=52.157882
+At iteration 5, x=2.922541, y=9.541244, y'=47.158974
+At iteration 6, x=2.720220, y=8.399596, y'=42.520105
+At iteration 7, x=2.522676, y=7.363893, y'=38.227732
+At iteration 8, x=2.330043, y=6.429102, y'=34.267568
+At iteration 9, x=2.142429, y=5.590001, y'=30.624574
+At iteration 10, x=1.959895, y=4.841190, y'=27.282944
+At iteration 11, x=1.782452, y=4.177134, y'=24.226112
+At iteration 12, x=1.610029, y=3.592193, y'=21.436752
+Error: after 12 iterations, x=1.610029 and f(x)=3.592193

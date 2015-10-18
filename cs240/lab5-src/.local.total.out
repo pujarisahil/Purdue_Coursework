@@ -1,0 +1,912 @@
+
+
+-------------------------------------------------
+CS240: Lab 4. cs240   
+Sun Oct  5 23:30:24 EDT 2014
+-------------------------------------------------
+./gauss                             : 0   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 0   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. cs240 Sun Oct 5 23:30:24 EDT 2014  Total:  0 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 10:44:05 EDT 2014
+-------------------------------------------------
+./gauss                             : 0   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 0   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 10:44:05 EDT 2014  Total:  0 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 11:08:05 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 0   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 11:08:05 EDT 2014  Total:  6 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 11:12:05 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 0   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 11:12:05 EDT 2014  Total:  6 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 11:15:18 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 0   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 11:15:18 EDT 2014  Total:  6 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 11:17:38 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 0   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 11:17:38 EDT 2014  Total:  50 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 11:18:10 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 0   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 11:18:10 EDT 2014  Total:  6 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 11:18:29 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 0   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 11:18:29 EDT 2014  Total:  6 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 11:20:37 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 0   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 11:20:37 EDT 2014  Total:  12 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 11:21:18 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 0   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 11:21:18 EDT 2014  Total:  6 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 11:22:51 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 0   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 11:22:51 EDT 2014  Total:  12 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 11:36:38 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 11:36:38 EDT 2014  Total:  62 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 12:02:48 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 12:02:48 EDT 2014  Total:  62 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 12:03:16 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 12:03:16 EDT 2014  Total:  62 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 12:04:01 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 12:04:01 EDT 2014  Total:  62 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 12:10:53 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 12:10:53 EDT 2014  Total:  62 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 12:13:52 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 12:13:52 EDT 2014  Total:  62 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 12:15:27 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 12:15:27 EDT 2014  Total:  62 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 12:16:20 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 12:16:20 EDT 2014  Total:  62 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 12:20:04 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 12:20:04 EDT 2014  Total:  62 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 12:25:25 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 12:25:25 EDT 2014  Total:  62 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 12:26:59 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 12:26:59 EDT 2014  Total:  62 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 12:27:11 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 12:27:11 EDT 2014  Total:  62 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 12:29:31 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 12:29:31 EDT 2014  Total:  62 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 12:35:16 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 12:35:16 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 12:35:59 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 12:35:59 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 12:36:24 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 12:36:24 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 12:37:38 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 12:37:38 EDT 2014  Total:  62 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 12:39:19 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 12:39:19 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 23:10:55 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 23:10:55 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 23:26:13 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 23:26:13 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 23:33:20 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 23:33:20 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 23:35:08 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 23:35:08 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 23:36:13 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 23:36:13 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 23:36:52 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 23:36:52 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 23:46:40 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 23:46:40 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 23:48:23 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 23:48:23 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. pujari   
+Mon Oct 20 23:48:48 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. pujari Mon Oct 20 23:48:48 EDT 2014  Total:  100 of 100
+
